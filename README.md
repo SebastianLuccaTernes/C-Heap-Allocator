@@ -2,6 +2,8 @@
 
 I built three heap allocators in C following the Stanford Course CS107 during my time there in Summer 2025.
 
+Used GDB, GCC, valgrind, assembly code, and callgrind. Developed source code using Ubuntu, a linux terminal, and EMACS, a text editor.
+
 ## Allocator Implementations
 
 ### 1. Bump Allocator (bump.c)
